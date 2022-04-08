@@ -1,6 +1,6 @@
-Hello World!
+Hello I am a CS major!
 
-*YESSSIRRR* 
+*I am a first year* 
 
 **I am in 15L**
 
