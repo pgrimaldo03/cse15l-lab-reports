@@ -6,9 +6,9 @@ Hello World!
 
 # Getting Started
 
-[Lab 2 Write-Up] (https://docs.google.com/document/d/1Nw6gdehL-BzqjeVV1jzi_Ni4cdpx2uquLztLGTdzUdU/edit)
+[Lab 2 Write-Up](https://docs.google.com/document/d/1Nw6gdehL-BzqjeVV1jzi_Ni4cdpx2uquLztLGTdzUdU/edit)
 
-![Computer Lab] (https://cse.ucsd.edu/sites/cse.ucsd.edu/files/CSE_ComputerLab_600.jpg)
+![Computer Lab](https://cse.ucsd.edu/sites/cse.ucsd.edu/files/CSE_ComputerLab_600.jpg)
 
 ## How can this help me?
 
