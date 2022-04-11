@@ -19,6 +19,7 @@ For CSE 15L we have an account that I looked up here:
 
 ["Connect to a remote host"](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
+![](part3.jpg)
 
 ## Trying Some Commands
 I ran the commands: `cd ~`, `cd`, `ls -l`, `ls -a`, `ls -t`, `ls -lat`  
@@ -26,11 +27,22 @@ I ran the commands: `cd ~`, `cd`, `ls -l`, `ls -a`, `ls -t`, `ls -lat`
 ![commands](part4.jpg)
 
 ## Moving Files with scp
-* 
+For this I ran 
+
+![](part5.1.jpg)
+and then I ran it again but this time using `scp` with my cs15lsp22 account and got 
+![](part5.2.jpg)
+as you can see
 ## Setting an SSH Key 
-* 
+* Then 
+
+![](part6.jpg)
+
 ## Optimizing Remote Running
-* 
+
+
+![](part7.jpg)
+
 For each step include 2-3 sentences or bullet points describing what you did.
 * Installing VScode
 * Remotely Connecting
