@@ -43,7 +43,7 @@ I was able to create an SSH key using shh-keygen. I thought I had to do an extra
 ## Optimizing Remote Running
 
 For this part I ran the code with the quotes after my account `ssh cs15lsp22zz@ieng6.ucsd.edu "ls"
-`. Another way that I was able to optimze it was by using semi-colons and adding them to run the compile and run. With these two I was able to get the following:
+`. Another way that I was able to optimze it was by using semi-colons and adding them to run the compile and run `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`. With these two I was able to get the following:
 
 ![](part7.jpg)
 
