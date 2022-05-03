@@ -26,3 +26,6 @@ The bug is that there was an infinite loop as seen through the symptom above. Th
 ![Third Symptom](symptom3.jpg)
 
 The same thing can be seen here, the failure-inducing input was that no parenthesis are present in the test case for one of the links. This means that it did find the brakets but when it got to the actual link there was none to be found since openParen returned -1. 
+
+
+[Home](https://pgrimaldo03.github.io/cse15l-lab-reports/)
