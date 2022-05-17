@@ -14,10 +14,10 @@ Lastly, I added the `Yes.txt` file to my ieng6 account by running `scp Yes.txt i
 ![scp ieng6](scpieng6.jpg)
 
 ## Setup Github Access from ieng6
-
+This part was confusing and I couldn't figure it out.
 
 ## Copy whole directories with `scp -r`
-
+Same with this. 
 
 
 [Home](https://pgrimaldo03.github.io/cse15l-lab-reports/)
